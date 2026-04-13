@@ -34,7 +34,7 @@ Smart-Traffic-Violation-Detector/
 How to Run the Project  
 
 1. Clone the repository  
-git clone https://github.com/AvanthikaMenon17/Smart-Traffic-Violation-Detector.git  
+git clone https://github.com/AvanthikaMenon17/Smart-Traffic-Violation-Pattern-Detector.git  
 
 2. Navigate to the project folder  
 cd Smart-Traffic-Violation-Detector  
